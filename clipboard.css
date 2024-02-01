@@ -1,0 +1,29 @@
+.clipboard {
+
+    background-color: #fff;
+    color: #0d6efd;
+    border: 1px solid #0d6efd;
+    font-size: 0.8em;
+    border-radius: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    z-index: 1054;
+    cursor: pointer;
+    
+}
+
+.clipboard:hover {
+    
+    background-color: #0d6efd;
+    color: #fff;
+    
+}
+
+.clipboard-copied {
+    
+    background-color: #0d6efd;
+    color: #fff;
+    
+}
