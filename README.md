@@ -1,7 +1,7 @@
 # clipboard-js
 Clipboard js class
 
-<p>Allows you to associate a clipboard button with a specific container to copy its text.</p>
+<p>Allows you to associate a clipboard button with a specific container.</p>
 
 <p>Example:</p>
 
